@@ -1,0 +1,2 @@
+block of code.is fun.
+-declare or initialization only for that one specific function.
